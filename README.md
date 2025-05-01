@@ -28,7 +28,6 @@ I'm a fullstack developer. I enjoy creating cool stuff with code... and having s
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-Zabbix-DC382D?style=flat&logo=zabbix&logoColor=white)
 ...
 
 
