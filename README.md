@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a fullstack developer. I enjoy creating cool stuff with code... and having some fun too.
+I'm a fullstack developer who enjoys creating cool, useful, and fun stuff.  
 
 ### My Favorite Technologies
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com)
@@ -15,7 +15,7 @@ I'm a fullstack developer. I enjoy creating cool stuff with code... and having s
   </a>
 </div> -->
 
-### I Also Work With
+### Other Technologies I Work With  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -31,9 +31,13 @@ I'm a fullstack developer. I enjoy creating cool stuff with code... and having s
 ...
 
 ### Interests 🤓☝️
-💻 Homelab  
-🛠️ DIY Tech  
-🌱 Arduino & Sensors
+💻 Homelab & Self-Hosting  
+🛠️ DIY Tech, Arduino & Sensors  
+🎨 Voxel Art  
+
+![Voxel Art](./assets/voxel-servers.jpg)
+*Created with [MagicaVoxel](https://ephtracy.github.io/).*
+
 
 ---
 
